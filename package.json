@@ -1,0 +1,23 @@
+{
+    "name": "birdie",
+    "displayName": "Birdie",
+    "description": "Birdie theme",
+    "version": "1.0.2",
+    "publisher": "birdie",
+    "icon": "birdie.png",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "birdie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/birdie-color-theme.json"
+            }
+        ]
+    }
+}
