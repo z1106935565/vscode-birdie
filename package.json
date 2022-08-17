@@ -1,8 +1,8 @@
 {
     "name": "birdie",
     "displayName": "Birdie",
-    "description": "Birdie theme",
-    "version": "1.0.2",
+    "description": "Birdie theme for Visual Studio Code",
+    "version": "1.0.3",
     "publisher": "birdie",
     "icon": "birdie.png",
     "engines": {
